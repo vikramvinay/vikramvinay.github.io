@@ -136,9 +136,9 @@ a:hover, a:active, a:focus {
 
 /*For images*/
 
-.timeline-item .timeline-img-header11 {
-  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), url("https://www.dataquest.io/wp-content/uploads/2017/12/kaggle-fundamentals.png") center center no-repeat;
-  background-image:url("https://www.dataquest.io/wp-content/uploads/2017/12/kaggle-fundamentals.png")
+.timeline-item .timeline-img-header1 {
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4)), /*url("https://www.dataquest.io/wp-content/uploads/2017/12/kaggle-fundamentals.png")*/ center center no-repeat;
+  /*background-image:url("https://www.dataquest.io/wp-content/uploads/2017/12/kaggle-fundamentals.png")*/
   background-size: cover;
 }
 
